@@ -1,0 +1,16 @@
+D:\Geekbrains\Curs\01Vvedenie_C#\Homeworks\04\Maksim.Suhinin.Homeworks\Homework04\obj\Debug\netcoreapp3.1\Homework04.csprojAssemblyReference.cache
+D:\Geekbrains\Curs\01Vvedenie_C#\Homeworks\04\Maksim.Suhinin.Homeworks\Homework04\obj\Debug\netcoreapp3.1\Homework04.AssemblyInfoInputs.cache
+D:\Geekbrains\Curs\01Vvedenie_C#\Homeworks\04\Maksim.Suhinin.Homeworks\Homework04\obj\Debug\netcoreapp3.1\Homework04.AssemblyInfo.cs
+D:\Geekbrains\Curs\01Vvedenie_C#\Homeworks\04\Maksim.Suhinin.Homeworks\Homework04\obj\Debug\netcoreapp3.1\Homework04.csproj.CoreCompileInputs.cache
+D:\Geekbrains\Curs\01Vvedenie_C#\Homeworks\04\Maksim.Suhinin.Homeworks\Homework04\bin\Debug\netcoreapp3.1\Homework04.exe
+D:\Geekbrains\Curs\01Vvedenie_C#\Homeworks\04\Maksim.Suhinin.Homeworks\Homework04\bin\Debug\netcoreapp3.1\Homework04.deps.json
+D:\Geekbrains\Curs\01Vvedenie_C#\Homeworks\04\Maksim.Suhinin.Homeworks\Homework04\bin\Debug\netcoreapp3.1\Homework04.runtimeconfig.json
+D:\Geekbrains\Curs\01Vvedenie_C#\Homeworks\04\Maksim.Suhinin.Homeworks\Homework04\bin\Debug\netcoreapp3.1\Homework04.runtimeconfig.dev.json
+D:\Geekbrains\Curs\01Vvedenie_C#\Homeworks\04\Maksim.Suhinin.Homeworks\Homework04\bin\Debug\netcoreapp3.1\Homework04.dll
+D:\Geekbrains\Curs\01Vvedenie_C#\Homeworks\04\Maksim.Suhinin.Homeworks\Homework04\bin\Debug\netcoreapp3.1\Homework04.pdb
+D:\Geekbrains\Curs\01Vvedenie_C#\Homeworks\04\Maksim.Suhinin.Homeworks\Homework04\bin\Debug\netcoreapp3.1\Helper.dll
+D:\Geekbrains\Curs\01Vvedenie_C#\Homeworks\04\Maksim.Suhinin.Homeworks\Homework04\bin\Debug\netcoreapp3.1\Helper.pdb
+D:\Geekbrains\Curs\01Vvedenie_C#\Homeworks\04\Maksim.Suhinin.Homeworks\Homework04\obj\Debug\netcoreapp3.1\Homework04.csproj.CopyComplete
+D:\Geekbrains\Curs\01Vvedenie_C#\Homeworks\04\Maksim.Suhinin.Homeworks\Homework04\obj\Debug\netcoreapp3.1\Homework04.dll
+D:\Geekbrains\Curs\01Vvedenie_C#\Homeworks\04\Maksim.Suhinin.Homeworks\Homework04\obj\Debug\netcoreapp3.1\Homework04.pdb
+D:\Geekbrains\Curs\01Vvedenie_C#\Homeworks\04\Maksim.Suhinin.Homeworks\Homework04\obj\Debug\netcoreapp3.1\Homework04.genruntimeconfig.cache
