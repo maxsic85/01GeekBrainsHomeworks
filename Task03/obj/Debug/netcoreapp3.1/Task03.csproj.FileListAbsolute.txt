@@ -1,0 +1,13 @@
+D:\Geekbrains\Curs\01Vvedenie_C#\Homeworks\04\Maksim.Suhinin.Homeworks\Task03\bin\Debug\netcoreapp3.1\Task03.exe
+D:\Geekbrains\Curs\01Vvedenie_C#\Homeworks\04\Maksim.Suhinin.Homeworks\Task03\bin\Debug\netcoreapp3.1\Task03.deps.json
+D:\Geekbrains\Curs\01Vvedenie_C#\Homeworks\04\Maksim.Suhinin.Homeworks\Task03\bin\Debug\netcoreapp3.1\Task03.runtimeconfig.json
+D:\Geekbrains\Curs\01Vvedenie_C#\Homeworks\04\Maksim.Suhinin.Homeworks\Task03\bin\Debug\netcoreapp3.1\Task03.runtimeconfig.dev.json
+D:\Geekbrains\Curs\01Vvedenie_C#\Homeworks\04\Maksim.Suhinin.Homeworks\Task03\bin\Debug\netcoreapp3.1\Task03.dll
+D:\Geekbrains\Curs\01Vvedenie_C#\Homeworks\04\Maksim.Suhinin.Homeworks\Task03\bin\Debug\netcoreapp3.1\Task03.pdb
+D:\Geekbrains\Curs\01Vvedenie_C#\Homeworks\04\Maksim.Suhinin.Homeworks\Task03\obj\Debug\netcoreapp3.1\Task03.AssemblyInfoInputs.cache
+D:\Geekbrains\Curs\01Vvedenie_C#\Homeworks\04\Maksim.Suhinin.Homeworks\Task03\obj\Debug\netcoreapp3.1\Task03.AssemblyInfo.cs
+D:\Geekbrains\Curs\01Vvedenie_C#\Homeworks\04\Maksim.Suhinin.Homeworks\Task03\obj\Debug\netcoreapp3.1\Task03.csproj.CoreCompileInputs.cache
+D:\Geekbrains\Curs\01Vvedenie_C#\Homeworks\04\Maksim.Suhinin.Homeworks\Task03\obj\Debug\netcoreapp3.1\Task03.dll
+D:\Geekbrains\Curs\01Vvedenie_C#\Homeworks\04\Maksim.Suhinin.Homeworks\Task03\obj\Debug\netcoreapp3.1\Task03.pdb
+D:\Geekbrains\Curs\01Vvedenie_C#\Homeworks\04\Maksim.Suhinin.Homeworks\Task03\obj\Debug\netcoreapp3.1\Task03.genruntimeconfig.cache
+D:\Geekbrains\Curs\01Vvedenie_C#\Homeworks\04\Maksim.Suhinin.Homeworks\Task03\obj\Debug\netcoreapp3.1\Task03.csprojAssemblyReference.cache

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Geekbrains\\Curs\\01Vvedenie_C#\\Homeworks\\04\\Maksim.Suhinin.Homeworks\\Homework04\\Homework04_04.csproj": {}
+    "D:\\Geekbrains\\Curs\\01Vvedenie_C#\\Homeworks\\04\\git\\Homework04\\Homework04_04.csproj": {}
   },
   "projects": {
-    "D:\\Geekbrains\\Curs\\01Vvedenie_C#\\Homeworks\\04\\Maksim.Suhinin.Homeworks\\Homework04\\Homework04_04.csproj": {
+    "D:\\Geekbrains\\Curs\\01Vvedenie_C#\\Homeworks\\04\\git\\Homework04\\Homework04_04.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Geekbrains\\Curs\\01Vvedenie_C#\\Homeworks\\04\\Maksim.Suhinin.Homeworks\\Homework04\\Homework04_04.csproj",
+        "projectUniqueName": "D:\\Geekbrains\\Curs\\01Vvedenie_C#\\Homeworks\\04\\git\\Homework04\\Homework04_04.csproj",
         "projectName": "Homework04_04",
-        "projectPath": "D:\\Geekbrains\\Curs\\01Vvedenie_C#\\Homeworks\\04\\Maksim.Suhinin.Homeworks\\Homework04\\Homework04_04.csproj",
+        "projectPath": "D:\\Geekbrains\\Curs\\01Vvedenie_C#\\Homeworks\\04\\git\\Homework04\\Homework04_04.csproj",
         "packagesPath": "C:\\Users\\RYZEN\\.nuget\\packages\\",
-        "outputPath": "D:\\Geekbrains\\Curs\\01Vvedenie_C#\\Homeworks\\04\\Maksim.Suhinin.Homeworks\\Homework04\\obj\\",
+        "outputPath": "D:\\Geekbrains\\Curs\\01Vvedenie_C#\\Homeworks\\04\\git\\Homework04\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\RYZEN\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\Geekbrains\\Curs\\01Vvedenie_C#\\Homeworks\\04\\Maksim.Suhinin.Homeworks\\HomeWork04_1\\HomeWork04_1.csproj": {
-                "projectPath": "D:\\Geekbrains\\Curs\\01Vvedenie_C#\\Homeworks\\04\\Maksim.Suhinin.Homeworks\\HomeWork04_1\\HomeWork04_1.csproj"
+              "D:\\Geekbrains\\Curs\\01Vvedenie_C#\\Homeworks\\04\\git\\HomeWork04_1\\HomeWork04_1.csproj": {
+                "projectPath": "D:\\Geekbrains\\Curs\\01Vvedenie_C#\\Homeworks\\04\\git\\HomeWork04_1\\HomeWork04_1.csproj"
               }
             }
           }
@@ -62,14 +62,14 @@
         }
       }
     },
-    "D:\\Geekbrains\\Curs\\01Vvedenie_C#\\Homeworks\\04\\Maksim.Suhinin.Homeworks\\HomeWork04_1\\HomeWork04_1.csproj": {
+    "D:\\Geekbrains\\Curs\\01Vvedenie_C#\\Homeworks\\04\\git\\HomeWork04_1\\HomeWork04_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Geekbrains\\Curs\\01Vvedenie_C#\\Homeworks\\04\\Maksim.Suhinin.Homeworks\\HomeWork04_1\\HomeWork04_1.csproj",
+        "projectUniqueName": "D:\\Geekbrains\\Curs\\01Vvedenie_C#\\Homeworks\\04\\git\\HomeWork04_1\\HomeWork04_1.csproj",
         "projectName": "HomeWork04_1",
-        "projectPath": "D:\\Geekbrains\\Curs\\01Vvedenie_C#\\Homeworks\\04\\Maksim.Suhinin.Homeworks\\HomeWork04_1\\HomeWork04_1.csproj",
+        "projectPath": "D:\\Geekbrains\\Curs\\01Vvedenie_C#\\Homeworks\\04\\git\\HomeWork04_1\\HomeWork04_1.csproj",
         "packagesPath": "C:\\Users\\RYZEN\\.nuget\\packages\\",
-        "outputPath": "D:\\Geekbrains\\Curs\\01Vvedenie_C#\\Homeworks\\04\\Maksim.Suhinin.Homeworks\\HomeWork04_1\\obj\\",
+        "outputPath": "D:\\Geekbrains\\Curs\\01Vvedenie_C#\\Homeworks\\04\\git\\HomeWork04_1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\RYZEN\\AppData\\Roaming\\NuGet\\NuGet.Config",
