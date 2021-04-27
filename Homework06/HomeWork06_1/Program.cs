@@ -9,22 +9,11 @@ namespace HomeWork06_1
 {
     class Program
     {
-        public static void Table(Fun F, double x, double b)
-        {
-            Console.WriteLine("----- X ----- Y -----");
-            while (x <= b)
-            {
-                Console.WriteLine("| {0,8:0.000} | {1,8:0.000} |", x, F(x, x));
-                x += 1;
-            }
-            Console.WriteLine("---------------------");
-        }
-
         static void Main(string[] args)
         {
-            Table(new Fun(MyFunc), 0, 5);
-            Table(new Fun(CalcShift), 0, 5);
-            Table(new Fun(CalcSinX), 0, 5);
+            OnGUI.PrintTable(new Fun(MyFunc), 0, 5);
+            OnGUI.PrintTable(new Fun(CalcShift), 0, 5);
+            OnGUI.PrintTable(new Fun(CalcSinX), 0, 5);
         }
     }
 }
